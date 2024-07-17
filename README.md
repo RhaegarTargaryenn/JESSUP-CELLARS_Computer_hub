@@ -7,7 +7,7 @@ We will build an LLM based question and answer system that can help the customer
 
 # Installation
 1) Clone this repository to your local machine using:
-  git clone https://github.com/codebasics/langchain.git
+  git clone https://github.com/RhaegarTargaryenn/JESSUP-CELLARS_Computer_hub.git
 
 2) Navigate to the project directory:
      cd 3_project_codebasics_q_and_a
